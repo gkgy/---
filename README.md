@@ -20,7 +20,8 @@ scott yung怎么学习的，学了那些  4年的课程
 https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
 这是他学习的视频，可惜很多都没了 我需要知道她学了那些东西，来找到相似的东西
 
-
+https://www.youtube.com/c/mitocw/playlists
+列表里面都是全的，大家根据这个来学习，非常方便
 第一课
 https://www.youtube.com/watch?v=F3N5EkMX_ks&list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV&index=1
 他的官网材料，谁有的话可以发我，比如弄成网盘
