@@ -18,3 +18,11 @@ http://mis.sem.tsinghua.edu.cn/ueditor/jsp/upload/file/20210930/1632964898922021
 
 scott yung怎么学习的，学了那些  4年的课程 
 https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
+这是他学习的视频，可惜很多都没了 我需要知道她学了那些东西，来找到相似的东西
+
+
+第一课
+https://www.youtube.com/watch?v=F3N5EkMX_ks&list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV&index=1
+他的官网材料，谁有的话可以发我，比如弄成网盘
+https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/readings/
+2022年7月5日 学习到1.1coordinate systems
